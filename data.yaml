@@ -1,0 +1,4 @@
+train: C:\Users\jayku\Humber_semester_2\data_science\YOLO_PROJECT\datasets\humber_train\train\images
+val: C:\Users\jayku\Humber_semester_2\data_science\YOLO_PROJECT\datasets\humber_train\valid\images
+nc: 3
+names: ['humber_large', 'humber_medium', 'humber_small']
